@@ -24,13 +24,16 @@ I thrive on the challenge of solving complex problems with data and am excited t
   This project involves analyzing perfume allergens and predicting prices using a machine learning approach.  
 
   [Salary Trends Insights](./salary-trends-insights/README.md)
-  
-   **Project Description:**
-   
-   Data-Driven Insights on Salary Trends in Data Science  
-   This project provides insights into salary trends within the data science industry.
+
+**Project Description:**  
+   Data-Driven Insights on Salary Trends in Data Science
+   This project provides insights into salary trends within the data science industry.  
+ 
 ---
 
 ## Education
+University of Bradford, Master of Science - MS Artifical Intelligence and Data Analytics Jan 2024 - March 2025
+
+Lahore University of Management Sciences 2019 - 2023
 
 ## Certifications
