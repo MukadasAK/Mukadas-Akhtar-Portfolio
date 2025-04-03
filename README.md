@@ -26,9 +26,10 @@ I thrive on the challenge of solving complex problems with data and am excited t
 
   [Salary Trends Insights](./salary-trends-insights/README.md)
   
-  **Project Description:** 
-  Data-Driven Insights on Salary Trends in Data Science  
-  This project provides insights into salary trends within the data science industry.
+   **Project Description:**
+   
+   Data-Driven Insights on Salary Trends in Data Science  
+   This project provides insights into salary trends within the data science industry.
 ---
 
 ## Education
