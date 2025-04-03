@@ -1,12 +1,19 @@
-Perfume Allergens Analysis
+# Uncovering Allergens In Perfumes with Annotation And Machine Learning using Web Scraping
 
-[Code](Web_scraping_code.ipynb): Perfume Allergens Analysis
+[Code for Perfume Allergens Analysis ](Web_scraping_code.ipynb)
 
-Goal: 
+**Description:**  
+Conducted web scraping to integrate data from multiple sources and performed data annotation to structure the dataset. Developed a machine learning model leveraging word embeddings to predict perfume prices based on allergen analysis.
 
-Description: 
-Skills: data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+**Goal:**  
+To transform unstructured data into a structured format and build a robust model that accurately predicts perfume prices through allergen analysis.
 
-Technology: Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+**Skills:**  
+Web Scraping, Data Annotation, Natural Language Processing, Machine Learning
 
-Results: Using Python functions the analysis revealed that votes and budget have the highest correlation with gross earnings, while the company has no significant correlation.
+**Technology:**  
+Python, Web Scraping Libraries, NLP Libraries (e.g., NLTK, spaCy), Machine Learning Frameworks
+
+**Results:**  
+Successfully integrated diverse data sources and developed a price prediction model with promising accuracy, demonstrating the potential for scalable analysis in the beauty industry.
+
