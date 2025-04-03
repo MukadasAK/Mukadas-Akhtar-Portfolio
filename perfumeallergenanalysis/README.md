@@ -1,5 +1,6 @@
 Perfume Allergens Analysis
-[View Code](Web_scraping_code.ipynb)
+
+[Code](Web_scraping_code.ipynb): Perfume Allergens Analysis
 
 Goal: 
 
