@@ -1,4 +1,4 @@
-##From Code to Conversion: Analyzing Clickstream Data through Predictive Machine Learning and Website Design Efficiency in E-Commerce##
+# From Code to Conversion: Analyzing Clickstream Data through Predictive Machine Learning and Website Design Efficiency in E-Commerce
 **Description:**  
 Developed a machine learning classification model to predict e-commerce purchases using session attributes. The project explores both interpretable models and non-linear approaches to provide insights for data-driven marketing.
 
