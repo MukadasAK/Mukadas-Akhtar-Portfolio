@@ -38,4 +38,4 @@ This project involves analyzing perfume allergens and predicting prices using a 
 Data-Driven Insights on Salary Trends in Data Science  
 This project provides insights into salary trends within the data science industry.
 
-
+[View Code](./app.py) that directs to your app.py file.
