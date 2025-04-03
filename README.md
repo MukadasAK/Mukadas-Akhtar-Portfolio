@@ -3,7 +3,8 @@
 Welcome to my portfolio repository! Here are my projects:
 
 ## Table of Contents
-- [SmartHealth UK Booking App](./smarthealth-uk-booking-app/README.md)
+- [SmartHealth UK Booking App](https://github.com/MukadasAK/Mukadas-Akhtar-Portfolio/tree/main/smarthealth-uk-bookingapp#readme)
+- (https://github.com/MukadasAK/Mukadas-Akhtar-Portfolio/tree/main/smarthealth-uk-bookingapp#readme)
 - 
 **Project Description:**  
 Healthcare Booking Application – SmartHealth UK  
