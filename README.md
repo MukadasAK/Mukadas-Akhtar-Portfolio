@@ -1,4 +1,4 @@
-# Mukadas- Data Analysis Portfolio
+# Mukadas - Portfolio
 
 Hello, I'm Mukadas. I recently earned my Master's degree in AI and Data Analytics, where I built a strong foundation in turning raw data into valuable insights. Through hands-on projects in machine learning, Python-based data analytics, and Power BI, I've learned to uncover patterns and trends that drive meaningful solutions. 
 I thrive on the challenge of solving complex problems with data and am excited to apply my technical and analytical skills as an entry-level data specialist. This repository is a showcase of my work, a record of my progress, and a space where I share my passion for data-driven discovery.
