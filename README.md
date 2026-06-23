@@ -29,7 +29,10 @@ I thrive on the challenge of solving complex problems with data and am excited t
    Data-Driven Insights on Salary Trends in Data Science
    This project provides insights into salary trends within the data science industry.  
  
----
+---[NHS_project](./nhs-ae-performance-analysis/README.md)
+
+**Project Description:**  
+This project analyzes NHS A&E performance data using SQL, Python, and Power BI. It includes data cleaning, table creation, SQL views, and performance insights for dashboard reporting.
 
 ## Education
 University of Bradford, Master of Science - MS Artifical Intelligence and Data Analytics Jan 2024 - March 2025
