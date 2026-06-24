@@ -11,6 +11,22 @@ patterns, and trust-level variation across England from
 - SQL (SQLite) — data cleaning, transformation, and analysis
 - Power BI — four-page interactive dashboard
 
+## SQL Analysis Highlights
+
+A major part of this project was writing SQL queries to transform NHS A&E data into analysis-ready outputs for Power BI. The queries were designed to answer real performance questions, including national trends, long waits, trust rankings, seasonal pressure, and year-on-year change.
+
+| Query | Question Answered | SQL Skill Shown | Dashboard Use |
+|---|---|---|---|
+| Monthly National Trend | How has national 4-hour A&E performance changed over time? | Aggregation, grouping, percentage calculation | Main time-series chart |
+| Rolling 12-Month Average | What is the longer-term performance trend after smoothing monthly spikes? | Window function, rolling average | Trend line / performance smoothing |
+| Trust Performance Ranking | Which NHS trusts performed strongest or weakest? | CTE, ranking, `PARTITION BY` | Trust league table |
+| Seasonal Demand Pattern | Do certain months show higher A&E pressure? | Date extraction, grouping, seasonal comparison | Monthly demand and performance page |
+| Year-on-Year Comparison | How did each year compare with the previous year? | CTE pipeline, `LAG()` window function | Annual performance summary |
+
+The full SQL queries are available here:  
+[View SQL Analysis Queries](./sql/analysis_queries.sql)
+
+
 ## Key findings
 - National 4-hour performance fell from 85.13% in 2019 to 75.69% in 2023
 - 12-hour breach volumes increased 
