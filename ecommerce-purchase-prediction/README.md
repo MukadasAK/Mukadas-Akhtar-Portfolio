@@ -2,8 +2,6 @@
 **Description:**  
 Developed a machine learning classification model to predict e-commerce purchases using session attributes. The project explores both interpretable models and non-linear approaches to provide insights for data-driven marketing.
 
-![Uploading image.png…]()
-
 **Goal:**  
 To build and compare various classification models (such as logistic regression, SVM, and decision trees) to accurately predict purchase behavior, thereby enhancing targeted marketing strategies.
 
