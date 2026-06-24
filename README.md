@@ -47,6 +47,7 @@ My goal is to show that I can work with raw data, structure it properly, analyze
       <h3>🏥 <a href="./NHS_project/README.md">NHS A&E Performance Analysis</a></h3>
       <p>Analyzed NHS England A&E performance data using SQL and Power BI. This project focuses on healthcare performance trends, waiting times, seasonal pressure, and dashboard-ready reporting.</p>
       <p><b>Skills shown:</b> SQL · Power BI · Data Cleaning · Healthcare Analytics · Dashboard Reporting</p>
+      💻[View full dashboard here](./NHS_project/NHS%20A%26E%20project%20dashboard.pdf)
     </td>
     <td width="50%" valign="top">
       <h3>🛒 <a href="./ecommerce-purchase-prediction/README.md">Ecommerce Purchase Prediction</a></h3>
