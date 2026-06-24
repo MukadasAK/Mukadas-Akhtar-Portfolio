@@ -5,9 +5,17 @@ Developed a user-friendly health booking application with seamless UX design, in
 
 **Goal:**  
 To create an intuitive booking platform that streamlines appointment scheduling and meets strict security and regulatory standards.
+<img width="825" height="748" alt="image" src="https://github.com/user-attachments/assets/06e7ee7a-4a72-4dc9-b252-6890032e0015" />
+
+
+**Some market research:**  
+<img width="750" height="556" alt="image" src="https://github.com/user-attachments/assets/5f6fd5e6-fa65-47aa-b2db-78848a425366" />
+
 
 **Skills:**  
 UX/UI Design, Front-End & Back-End Development, Data Security, Regulatory Compliance
+<img width="1034" height="517" alt="image" src="https://github.com/user-attachments/assets/9799b48d-c9a4-45a7-92b3-96318c57429c" />
+
 
 **Technology:**  
 Python, Flask, HTML/CSS/JavaScript, SQL
