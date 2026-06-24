@@ -1,5 +1,7 @@
 # SmartHealth UK Booking App
 
+This is a healthcare booking app prototype designed for the UK market. It combines product research, UX planning, and a basic Flask application structure to explore how users could book GP or specialist appointments through a simple digital interface.
+
 <img width="781" height="781" alt="image" src="https://github.com/user-attachments/assets/47a1d909-c251-46c6-93b2-7c513b482936" />
 
 
@@ -17,6 +19,7 @@ To create an intuitive booking platform that streamlines appointment scheduling 
 
 **Skills:**  
 UX/UI Design, Front-End & Back-End Development, Data Security, Regulatory Compliance
+### User Journey / Prototype Design
 <img width="1034" height="517" alt="image" src="https://github.com/user-attachments/assets/9799b48d-c9a4-45a7-92b3-96318c57429c" />
 
 
