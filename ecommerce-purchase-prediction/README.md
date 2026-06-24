@@ -1,6 +1,6 @@
 # From Code to Conversion: Analyzing Clickstream Data through Predictive Machine Learning and Website Design Efficiency in E-Commerce
 
-[Read the full dissertation:](ecommerce-purchase-prediction/Mukadas Akhtar_23046538 Dissertation)
+[Read the full dissertation](./Mukadas%20Akhtar_23046538%20Dissertation.docx)
 
 
 **Description:**  
