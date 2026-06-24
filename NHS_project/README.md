@@ -6,8 +6,6 @@ open data to examine A&E performance trends, seasonal
 patterns, and trust-level variation across England from
 2019 to 2026.
 
-💻[View full dashboard here](./NHS_project/NHS%20A%26E%20project%20dashboard.pdf)
-
 ## Tools used
 - Python (pandas) — combining 80+ monthly NHS Excel files
 - SQL (SQLite) — data cleaning, transformation, and analysis
