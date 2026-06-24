@@ -1,4 +1,8 @@
 # From Code to Conversion: Analyzing Clickstream Data through Predictive Machine Learning and Website Design Efficiency in E-Commerce
+
+[Read the full dissertation:](ecommerce-purchase-prediction/Mukadas Akhtar_23046538 Dissertation)
+
+
 **Description:**  
 Developed a machine learning classification model to predict e-commerce purchases using session attributes. The project explores both interpretable models and non-linear approaches to provide insights for data-driven marketing.
 
