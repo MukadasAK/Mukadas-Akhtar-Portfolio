@@ -11,6 +11,10 @@ patterns, and trust-level variation across England from
 - SQL (SQLite) — data cleaning, transformation, and analysis
 - Power BI — four-page interactive dashboard
 
+## Dashboard
+
+[💻 View full dashboard here](./NHS%20A%26E%20project%20dashboard.pdf)
+
 ## SQL Analysis Highlights
 
 A major part of this project was writing SQL queries to transform NHS A&E data into analysis-ready outputs for Power BI. The queries were designed to answer real performance questions, including national trends, long waits, trust rankings, seasonal pressure, and year-on-year change.
