@@ -81,6 +81,30 @@ My goal is to show that I can work with raw data, structure it properly, analyze
 </table>
 
 ---
+## Certifications
+
+These certifications support my learning in Power BI, SQL, data analytics, business intelligence, Excel, and machine learning.
+
+### Data Analyst in Power BI  
+**Issued by DataCamp**  
+[View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/track/09510d9196711ff84373ba5c5894a5002dee2516?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
+
+<img width="500" alt="Data Analyst in Power BI Certificate" src="https://github.com/user-attachments/assets/d56885ac-133d-432b-835b-1c5a9d5bab6c" />
+
+---
+
+### Analyzing and Visualizing Data in Looker  
+**Issued by Google Skills**  
+[View Certificate](https://www.skills.google/public_profiles/ac31e6c3-a083-4d40-977f-5ff647bff7d9/badges/12306000?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
+
+---
+
+### Introduction to Data Analytics on Google Cloud  
+**Issued by Google Skills**  
+[View Certificate](https://www.skills.google/public_profiles/ac31e6c3-a083-4d40-977f-5ff647bff7d9/badges/10880122?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
+
+<div align="center">
+
 
 ## Project Structure
 
