@@ -1,3 +1,16 @@
+/*
+NHS A&E Performance Analysis
+SQL Analysis Queries
+
+This file contains the main SQL queries used to analyze NHS England A&E performance data.
+The queries support the Power BI dashboard by preparing national trends, rolling averages,
+trust rankings, seasonal patterns, and year-on-year comparisons.
+
+Main tables used:
+- ae_monthly
+- ae_combined
+*/
+
 Query 1 — Monthly national trend
 The big picture: how has 4-hour performance changed over time nationally?
 SELECT
