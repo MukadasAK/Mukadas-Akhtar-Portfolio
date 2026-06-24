@@ -12,12 +12,11 @@ patterns, and trust-level variation across England from
 - Power BI — four-page interactive dashboard
 
 ## Key findings
-- National 4-hour performance fell from [X]% in 2019
-  to [X]% in 2024
-- 12-hour breach volumes increased [X]-fold since 2019
+- National 4-hour performance fell from 85.13% in 2019 to 75.69% in 2023
+- 12-hour breach volumes increased 
 - Winter months (Nov-Mar) show consistently lower performance
 - Significant variation exists between trusts — top performer
-  averaged [X]% vs bottom performer at [X]%
+  averaged 100 % vs bottom performer at 39.6%
 
 ## Dashboard pages
 1. Executive summary — national KPIs and trend line
