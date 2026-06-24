@@ -1,22 +1,41 @@
-# NHS A&E Performance Analysis
+ NHS A&E Performance Analysis
 
-This project analyzes NHS A&E performance data using SQL, Python, and Power BI.
+## Project overview
+An end-to-end data analysis project using real NHS England
+open data to examine A&E performance trends, seasonal
+patterns, and trust-level variation across England from
+2019 to 2026.
 
-## Project Goal
+## Tools used
+- Python (pandas) — combining 80+ monthly NHS Excel files
+- SQL (SQLite) — data cleaning, transformation, and analysis
+- Power BI — four-page interactive dashboard
 
-The goal is to clean and analyze NHS A&E data, create useful SQL views, and prepare the data for dashboard reporting in Power BI.
+## Key findings
+- National 4-hour performance fell from [X]% in 2019
+  to [X]% in 2024
+- 12-hour breach volumes increased [X]-fold since 2019
+- Winter months (Nov-Mar) show consistently lower performance
+- Significant variation exists between trusts — top performer
+  averaged [X]% vs bottom performer at [X]%
 
-## Tools Used
+## Dashboard pages
+1. Executive summary — national KPIs and trend line
+2. 2. Regional map — performance by ICS area
+3. Trust league table — ranked with conditional formatting
+4. Seasonal pattern — monthly demand and performance
 
-- SQL
-- Python
-- Power BI
-- Excel / CSV data
+## Data source
+NHS England A&E Attendances and Emergency Admissions
+monthly statistics — publicly available at
+england.nhs.uk/statistics
 
-## Files
+## Files in this repo
+- combine_nhs_files.py — Python script to merge source files
+- 01_create_tables.sql — database schema
+- 02_clean_data.sql — data cleaning and transformation
+- 03_views_for_powerbi.sql — analytical views for dashboard
+- NHS_AE_Insights.pdf — one-page findings summary
 
-- 01_create_tables_2.sql
-- 02_clean_data.sql
-- 03_views_for_powerbi.sql
-- combine_excel.py
-- NHS A&E Performance Analysis.pdf
+##****Page 1 of dashboard****
+<img width="963" height="531" alt="image" src="https://github.com/user-attachments/assets/4719f331-ff13-4af1-b6e5-eeebbbb8aedf" />
