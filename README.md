@@ -1,42 +1,95 @@
-# Mukadas - Portfolio
+<div align="center">
 
-Hello, I'm Mukadas. I recently earned my Master's degree in AI and Data Analytics, where I built a strong foundation in turning raw data into valuable insights. Through hands-on projects in machine learning, Python-based data analytics, and Power BI, I've learned to uncover patterns and trends that drive meaningful solutions. 
-I thrive on the challenge of solving complex problems with data and am excited to apply my technical and analytical skills as an entry-level data specialist. This repository is a showcase of my work, a record of my progress, and a space where I share my passion for data-driven discovery.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0D0D0D,100:F9A8D4&text=Data%20Analytics%20Portfolio&fontColor=ffffff&fontSize=46&fontAlignY=35&desc=Python%20%7C%20SQL%20%7C%20Power%20BI%20%7C%20Machine%20Learning&descSize=17&descAlignY=58" width="100%"/>
 
-## Projects
-  
-  [SmartHealth UK Booking App](https://github.com/MukadasAK/Mukadas-Akhtar-Portfolio/tree/main/smarthealth-uk-bookingapp#readme)
+# Mukadas Akhtar
 
-  **Project Description:**  
-  Healthcare Booking Application – SmartHealth UK  
-  This project focuses on creating a booking application designed specifically for the healthcare sector in the UK.
- 
-  [Ecommerce Purchase Prediction](./ecommerce-purchase-prediction/README.md)
-  
-  **Project Description:**  
-  MSc Dissertation: Predicting E-Commerce Purchases Using Session Attributes  
-  In this project, I explore how session attributes can be used to predict e-commerce purchase behavior.
+### AI & Data Analytics Graduate
 
-  [Perfume Allergen Analysis](./perfume-allergen-analysis/README.md)
- 
-  **Project Description:**  
-  Annotation and Machine Learning Model for Perfume Allergen Analysis and Price Prediction  
-  This project involves analyzing perfume allergens and predicting prices using a machine learning approach.  
+<p>
+A collection of projects showing my work in data cleaning, SQL analysis, machine learning, dashboard reporting, web scraping, and healthcare analytics.
+</p>
 
-  [Salary Trends Insights](./salary-trends-insights/README.md)
+</div>
 
-**Project Description:**  
-   Data-Driven Insights on Salary Trends in Data Science
-   This project provides insights into salary trends within the data science industry.  
- 
-[NHS A&E Performance Analysis](./NHS_project/README.md)
+---
 
-**Project Description:**  
-This project analyzes NHS A&E performance data using SQL, Python, and Power BI. It includes data cleaning, SQL table creation, SQL views, and performance insights for dashboard reporting.
+## About This Portfolio
 
-## Education
-University of Bradford, Master of Science - MS Artifical Intelligence and Data Analytics Jan 2024 - March 2025
+This portfolio brings together my hands-on projects in **AI and Data Analytics**. Each project is designed to show a different part of the data workflow, from collecting and cleaning data to building models, writing SQL queries, creating dashboards, and explaining insights clearly.
 
-Lahore University of Management Sciences 2019 - 2023
+My goal is to show that I can work with raw data, structure it properly, analyze it, and turn it into something useful for decision-making.
 
-## Certifications
+---
+
+## Core Skills Shown
+
+<table>
+  <tr>
+    <td align="center"><b>Data Analysis</b><br>Cleaning, exploration, patterns, insights</td>
+    <td align="center"><b>SQL</b><br>Tables, transformations, views, analysis queries</td>
+    <td align="center"><b>Python</b><br>pandas, NumPy, notebooks, automation</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Machine Learning</b><br>Classification, prediction, model comparison</td>
+    <td align="center"><b>Power BI</b><br>Dashboards, KPIs, reporting</td>
+    <td align="center"><b>Research</b><br>Market research, web scraping, public datasets</td>
+  </tr>
+</table>
+
+---
+
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏥 <a href="./NHS_project/README.md">NHS A&E Performance Analysis</a></h3>
+      <p>Analyzed NHS England A&E performance data using SQL and Power BI. This project focuses on healthcare performance trends, waiting times, seasonal pressure, and dashboard-ready reporting.</p>
+      <p><b>Skills shown:</b> SQL · Power BI · Data Cleaning · Healthcare Analytics · Dashboard Reporting</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛒 <a href="./ecommerce-purchase-prediction/README.md">Ecommerce Purchase Prediction</a></h3>
+      <p>Built machine learning models to predict whether online users are likely to make a purchase based on session behavior and website interaction data.</p>
+      <p><b>Skills shown:</b> Python · Scikit-learn · Classification · Model Evaluation · EDA</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💊 <a href="./smarthealth-uk-bookingapp/README.md">SmartHealth UK Booking App</a></h3>
+      <p>Designed a healthcare booking app prototype for the UK market, combining product research, UX planning, and a basic Flask application structure.</p>
+      <p><b>Skills shown:</b> Flask · Python · SQL · UX Research · Healthcare Product Thinking</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌸 <a href="./perfumeallergenanalysis/README.md">Perfume Allergen Analysis</a></h3>
+      <p>Used web scraping and data annotation to collect perfume product information, structure the data, and explore allergen-related patterns and price prediction.</p>
+      <p><b>Skills shown:</b> Web Scraping · Python · Data Annotation · NLP · Machine Learning</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💼 <a href="./salarytrendsinsights/README.md">Salary Trends Insights</a></h3>
+      <p>Analyzed salary trends across data science roles, experience levels, company locations, and job categories to identify useful career and compensation insights.</p>
+      <p><b>Skills shown:</b> Python · pandas · Visualization · Salary Analysis · Data Storytelling</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📌 Portfolio Focus</h3>
+      <p>This repository is being developed as a practical portfolio for entry-level data analyst, business intelligence, and AI/data roles.</p>
+      <p><b>Focus:</b> Clean code · Clear READMEs · Useful insights · Recruiter-friendly presentation</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Project Structure
+
+```text
+Mukadas-Akhtar-Portfolio
+│
+├── NHS_project
+├── ecommerce-purchase-prediction
+├── smarthealth-uk-bookingapp
+├── perfumeallergenanalysis
+├── salarytrendsinsights
+└── README.md
