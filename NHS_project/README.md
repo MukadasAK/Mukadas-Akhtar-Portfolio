@@ -24,7 +24,7 @@ A major part of this project was writing SQL queries to transform NHS A&E data i
 | Year-on-Year Comparison | How did each year compare with the previous year? | CTE pipeline, `LAG()` window function | Annual performance summary |
 
 The full SQL queries are available here:  
-[View SQL Analysis Queries](./sql/analysis_queries.sql)
+[View SQL Analysis Queries](./analysis_queries.sql)
 
 
 ## Key findings
