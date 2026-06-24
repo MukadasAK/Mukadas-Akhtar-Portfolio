@@ -1,5 +1,8 @@
 # SmartHealth UK Booking App
 
+<img width="781" height="781" alt="image" src="https://github.com/user-attachments/assets/47a1d909-c251-46c6-93b2-7c513b482936" />
+
+
 **Description:**  
 Developed a user-friendly health booking application with seamless UX design, integrating NHS services and pay-as-you-go options. The application is designed for quick access to GPs and specialists while ensuring secure data management and compliance with UK health regulations.
 
